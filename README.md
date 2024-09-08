@@ -8,7 +8,8 @@ This repository contains a Tableau dashboard analyzing the cost of living in maj
 ## Files in this repository:
 1. `project.twbx` - The Tableau packaged workbook file.
 2. `Dashboard.png` - A screenshot of the main dashboard.
-3. Additional screenshots (1.png, 2.png, etc.) showing detailed views.
+3. 'China.csv' - The dataset file in csv formatt.
+4. Additional screenshots (1.png, 2.png, etc.) showing detailed views.
 
 ## How to use:
 1. Download the `project.twbx` file.
