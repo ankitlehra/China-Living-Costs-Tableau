@@ -19,4 +19,10 @@ This repository contains a Tableau dashboard analyzing the cost of living in maj
 - Tableau: Data visualization and dashboarding.
 - Data Source: Dataset on apartment prices, salary, and other metrics in China.
 
+## View the Dashboard Online
+
+You can explore the full interactive dashboard on Tableau Public:  
+[China Living Costs Dashboard on Tableau Public](https://public.tableau.com/app/profile/ankit.lehra1560/viz/CostofLivinginMajorChineseCities/Dashboard)
+
 Feel free to download the workbook and explore the insights.
+
